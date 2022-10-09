@@ -1,0 +1,11 @@
+.bg-darkblue
+{
+    background-color:darkblue;
+}
+.img
+{
+    height: 10em;
+    width: 10em;
+    background: url(../img/sary.jpg)  no-repeat;
+    background-size: cover;
+}
